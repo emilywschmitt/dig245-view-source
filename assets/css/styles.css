@@ -1,2 +1,18 @@
 
-/* css */
+h1 {color: purple;
+text-align: center;
+font-size: 150px;
+background: lightblue;}
+
+h2 {color: lightblue;}
+
+h3 {color: pink;
+  text-align: center;
+background: black;
+font-size: 50px;
+font-family: 'times new roman';}
+
+.lists {
+  font-family: "comic sans";
+  font-weight: bold;
+}
