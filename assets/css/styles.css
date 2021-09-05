@@ -2,17 +2,21 @@
 h1 {color: red;
 text-align: center;
 font-size: 150px;
-background: black;}
+background: black;
+font-family: "impact";
+}
 
-h2 {color: red;}
+h2 {color: red;
+font-family: "impact";}
 
 h3 {color: black;
   text-align: center;
 font-size: 50px;
-font-family: 'times new roman';}
+font-family: "impact";}
 
 .lists {
-  font-family: "comic sans";
-  font-weight: bold;
+  font-family: "courrier";
 }
 p {text-align: left;}
+
+div {background: red;}
