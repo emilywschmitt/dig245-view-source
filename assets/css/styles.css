@@ -20,3 +20,12 @@ font-family: "impact";}
 p {text-align: left;}
 
 div {background: red;}
+
+table, th, td {border: 1px solid red;
+font-family: "impact";
+text-align: center;}
+
+td {font-family: "courrier";}
+
+.days {font-family: "impact";
+color: red;}
